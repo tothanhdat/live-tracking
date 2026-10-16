@@ -1,0 +1,31 @@
+﻿Field,Value
+report_name,Sessions - Activity
+workspace,athenahub_test_workspace
+website_name,misty-automative
+website_domain,localhost:8091
+date_range_start,2026-06-11T00:00:00+07:00
+date_range_end,2026-09-09T23:59:59+07:00
+exported_by,ryan@aia2z.io
+exported_at,2026-09-09T14:32:10+07:00
+
+session_id,visits,views,events,country,city,browser,os,device,last_seen
+a02627ab-28bb-482d-0476-ce5b656bfb70,2,15,48,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-09T11:28:44+07:00
+cb67bfee-5165-c17c-577f-0ed279eacf6b,1,8,7,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T17:52:10+07:00
+310e7ea1-dfb9-da8e-f358-a6a92a24c4a7,1,8,7,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T17:44:57+07:00
+9306bb46-d36e-7e1c-2d91-b22a38497c1f,1,8,7,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T17:37:44+07:00
+ab856e5b-34aa-591c-9300-df469b997378,1,11,14,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T17:30:31+07:00
+5a28043c-1389-54c9-0930-cfc9005d1c0a,1,11,14,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T17:23:18+07:00
+e50423b9-40fa-4899-3389-2fe94237429d,1,11,14,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T17:16:05+07:00
+f6478a31-ecc0-b33d-1b6b-9e449c8e4050,1,11,14,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T17:08:52+07:00
+e1a4d847-52b5-81a0-91f8-fdc9adc44e75,1,11,15,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T17:01:39+07:00
+4dde797b-a58a-c5bd-bce1-bea77f51836b,1,11,15,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T16:54:26+07:00
+df87be2c-786d-26d2-4f55-4914e185cb52,1,11,15,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T16:47:13+07:00
+3cd63d2a-d39a-b826-6f6b-ea632b91e95c,1,11,15,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T16:40:00+07:00
+9e13a02d-426b-cc41-71c7-55fc9e3a250b,1,11,15,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T16:32:47+07:00
+47d26fc1-c2e8-7c1f-5b30-47529fe9ca79,1,11,15,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T16:25:34+07:00
+baa1487f-c1ce-fbe7-41bd-0a79b5a164c5,1,11,15,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T16:18:21+07:00
+a49ad9d2-1ba2-6aab-c718-893ade3c4c7e,1,11,15,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T16:11:08+07:00
+ecee2118-abe9-fc90-9924-552b1ce7454e,1,3,1,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T16:03:55+07:00
+4afa955e-2f40-21d2-562c-2b740722b900,1,3,1,Singapore,Singapore,Chrome,macOS,Laptop,2026-09-08T15:56:42+07:00
+20d79789-619d-d185-3147-bc43e6d66301,3,24,31,Vietnam,Ho Chi Minh City,Safari,iOS,Mobile,2026-09-08T15:04:22+07:00
+67d64f9b-33b6-d818-e614-c82e103f9d6c,1,2,0,(unknown),(unknown),Edge,Windows,Desktop,2026-09-08T09:41:05+07:00

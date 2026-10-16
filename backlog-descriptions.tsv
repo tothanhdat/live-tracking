@@ -1,0 +1,26 @@
+Row	Name	Description
+2	Dashboard	Cross-website home screen aggregating key traffic KPIs and per-site summaries so users see the whole workspace at a glance.
+3	Boards	Custom boards where users arrange saved reports from one or more websites into a drag-and-drop layout for recurring monitoring.
+4	Websites	Manage tracked websites in a workspace: create, configure, copy the tracking script, transfer ownership, and delete.
+5	Links	Create and manage short links that record click events, making campaign traffic measurable without embedding the tracker.
+6	Pixels	Create and manage tracking pixels to record opens and visits from emails or pages where the tracking script cannot be embedded.
+7	Overview	Default website report: views, visitors, sessions, bounce rate and time on site, plus a pageviews time-series and top dimensions.
+8	Event	Report of custom events sent by the tracker, with drill-down into event attributes (e.g. click event properties) and their values.
+9	Session	Session-level report listing visitor sessions with device, location and referrer, and the activity sequence inside each session.
+10	Realtime	Live view of currently active visitors and recent events, refreshed by polling, for monitoring traffic as it happens.
+11	Performance	Core Web Vitals report collected from real visitors, showing how fast pages actually load and respond.
+12	Compare	Compare a website's metrics across two date ranges side by side to spot growth and regressions.
+13	Breakdown	Slice metrics across multiple dimensions at once (page, source, device, country) to see where the numbers come from.
+14	Goals	Define target events or pageviews and track completion progress against a goal value over a chosen period.
+15	Funnels	Multi-step conversion funnel showing how many visitors reach each step and where they drop off.
+16	Journeys	Path analysis of the page and event sequences visitors follow, revealing common routes and dead ends.
+17	Retention	Cohort retention report showing what share of visitors come back after 1 day, 1 week or longer.
+18	Replays	Session replay of recorded real user sessions, enabled per website, for qualitative behaviour analysis.
+19	Heatmaps	Click and scroll heatmaps over a page, showing where visitors interact and how far down they scroll.
+20	Segments	Reusable saved filters on visitor, session and event attributes that can be applied across reports.
+21	Cohorts	Group visitors by a shared trait or first-action period and track how each group behaves over time.
+22	UTM	Report on utm_source, medium, campaign, term and content to measure which marketing campaigns bring traffic.
+23	Revenue	Track revenue events by amount and currency, and see which pages, sources and campaigns generate income.
+24	Attribution	Attribute conversions back to the channels and campaigns that drove them, so marketing effort can be judged by outcome.
+25	SDK Android	Native Android SDK to send screen views and custom events from mobile apps into the same analytics pipeline.
+26	SDK iOS	Native iOS SDK to send screen views and custom events from mobile apps into the same analytics pipeline.
